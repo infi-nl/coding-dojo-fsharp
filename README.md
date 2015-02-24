@@ -43,7 +43,7 @@ It is a good exercise in recursion.
 
 ## Type Provider Treasure Hunt ##
 
-You will access data from different sources using the F# [F# Data library](http://fsharp.github.io/FSharp.Data/). In the first exercise of the assignment you will access an API and in the second you will read data from an XML-file.
+You will access data from different sources using the [F# Data library](http://fsharp.github.io/FSharp.Data/). In the first exercise of the assignment you will access an API and in the second you will read data from an XML-file.
 
 The original Dojo contains five extra exercises, but the first two exercises will give you a good impression of the concept.
 
