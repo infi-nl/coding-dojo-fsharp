@@ -1,5 +1,9 @@
 # Infi Developers Meetup - F# Coding Dojo #
 
+----
+**⚠ Warning:** This repository is _frozen in time_, and getting no new (security) updates. It is left public, should it help and offer some guidance around its subjects to future visitors. However, for latest guidance on involved subjects, we recommend going to the official sources.
+----
+
 This repository contains a selection of Coding Dojo assignments to help people get started with F#. These assignments can also be found at [c4fsharp.net](http://c4fsharp.net).
 
 All credits go to the original creators of each of the assignments. GitHub original repositories are listed below:
